@@ -26,7 +26,7 @@ a {
   background-color: #cabdb2;
 }
 
-.card:hover .btn p{
+.card:hover .btn p {
   background-color: #512200;
 }
 
@@ -65,7 +65,7 @@ div:not(.btn) {
   text-align: center;
 }
 
-.btn p{
+.btn p {
   display: inline-block;
   font-family: Dosis, sans-serif;
   font-weight: bold;
