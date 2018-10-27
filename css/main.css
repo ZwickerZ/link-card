@@ -30,7 +30,7 @@ a {
   background-color: #cabdb2;
 }
 
-.link-card:hover .btn p{
+.card:hover .btn p{
   background-color: #512200;
 }
 
