@@ -22,11 +22,15 @@ a {
   text-decoration: none;
 }
 
-.card-section:hover{
+.link-card:hover {
+
+}
+
+.link-card:hover {
   background-color: #cabdb2;
 }
 
-.card-section:hover .btn p{
+.link-card:hover .btn p{
   background-color: #512200;
 }
 
@@ -44,7 +48,8 @@ dt {
   float: left;
 }
 
-.card-section {
+.link-card {
+  display: block;
   background-color: #dcd4cd;
   padding: .4em .75em .5em;
   border-style: solid;
